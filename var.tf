@@ -1,0 +1,13 @@
+variable "acc_key" {}
+variable "sec_key" {}
+variable "region" {}
+variable "vpc_cid" {}
+variable "vpc_nam" {}
+variable "rout_name" {}
+variable "sub1_cid" {}
+variable "sub2_cid" {}
+variable "sub3_cid" {}
+variable "sub1_nam" {}
+variable "sub2_nam" {}
+variable "sub3_nam" {}
+variable "ig_name" {}
